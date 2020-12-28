@@ -6,7 +6,7 @@ I'm a 19-year-old computer science major at NC State University, with passion in
 - 💬 Ask me about cloud-native technology!
 - 😄 Pronouns: he/him
 
-
+[![Twitter Badge](https://img.shields.io/badge/-@cedricclyburn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cedricclyburn)]
 <!--
 **cedricclyburn/cedricclyburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
