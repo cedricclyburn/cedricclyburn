@@ -2,7 +2,7 @@
 I'm a 19-year-old computer science major at NC State University, with passion in machine learning and applications of large-scale data.
 
 - ☸ I'm currently working on Kubernetes/OpenShift
-- ₿ I'm currently learning about enterprise blockchain technology
+- 👨‍💻 I'm currently learning about enterprise blockchain technology
 - 💬 Ask me about cloud-native technology!
 - 😄 Pronouns: he/him
 
