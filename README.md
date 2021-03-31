@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 19-year-old computer science major at NC State University, with passion in machine learning and applications of large-scale data.
+Hi! I'm a computer science major at NC State University, with a passion for machine learning and applications of large-scale data.
 
 - ☸ I'm currently working on Kubernetes/OpenShift
 - 👨‍💻 I'm currently learning about enterprise blockchain technology
