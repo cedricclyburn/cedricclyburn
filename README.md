@@ -26,5 +26,5 @@ I've had the honor to work on various advocacy projects, labs, and workshops on 
 
 - **Kubernetes & OpenShift Labs**: Self-paced labs hosted by Red Hat to get hands-on learning experience. [Check it out](https://www.redhat.com/en/interactive-labs/openshift)
 - **Technical Blogs & Guides**: Technical content and guides around getting started with Podman, Tekton, and Buildah. [Read more](https://developers.redhat.com/author/cedric-clyburn)
-- **Whiteboard Explainer Videos**: Real-time video streaming library, optimized for interstellar transmission. [Watch now](https://www.youtube.com/watch?v=Xx588nbshlM)
+- **Whiteboard Explainer Videos**: Open source technologies explained for everyone, using the fantastic IBM studio whiteboard. [Watch now](https://www.youtube.com/watch?v=Xx588nbshlM)
 - **MongoDB & Kubernetes**: Article & demo repository on using the MongoDB Kubernetes operator to connect to MongoDB Atlas. [Learn more](https://www.mongodb.com/developer/products/atlas/kubernetes-operator-application-deployment/)
