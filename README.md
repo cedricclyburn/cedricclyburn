@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋 I'm Cedric!
+
+[![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricclyburn)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
   <a href="https://twitter.com/cedricclyburn">
