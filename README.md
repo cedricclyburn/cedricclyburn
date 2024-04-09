@@ -1,12 +1,6 @@
 ### Hi there 👋 I'm Cedric!
 
-[![Cedric's GitHub Streak](https://streak-stats.demolab.com/?user=cedricclyburn)](https://git.io/streak-stats
-
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=cedricclyburn&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=cedricclyburn&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=cedricclyburn&theme=summer">
-</picture>
+![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricclyburn&hide=stars)
 
 <div align="left">
   <a href="https://twitter.com/cedricclyburn">
