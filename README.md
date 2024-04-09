@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Cedric!
 
-[![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricclyburn)](https://github.com/anuraghazra/github-readme-stats)
+[![Cedric's GitHub Streak](https://streak-stats.demolab.com/?user=cedricclyburn)](https://git.io/streak-stats)
 
 <div align="left">
   <a href="https://twitter.com/cedricclyburn">
