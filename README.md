@@ -14,8 +14,6 @@ I’m Cedric, a developer advocate based at Red Hat, with a background in Kubern
   <img src="https://github-readme-stats.vercel.app/api?username=cedricclyburn&hide=stars&show_icons=true" />
 </picture>
 
-![Cedric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricclyburn&hide=stars)
-
 ### 🔗 My Links
 
 - X: [@cedricclyburn](https://x.com/cedricclyburn)
