@@ -8,6 +8,7 @@ I’m Cedric, a developer advocate based at Red Hat, with a background in Kubern
 
 - X: [@cedricclyburn](https://x.com/cedricclyburn)
 - LinkedIn: [cedricclyburn](https://www.linkedin.com/in/cedricclyburn)
+- Personal Site [cedricclyburn.com](https://www.cedricclyburn.com)
 
 ### 🚀 Projects, Activities, and More
 
