@@ -2,9 +2,6 @@
 
 I’m Cedric, a developer advocate based at Red Hat, with a background in Kubernetes, DevOps, and container tools. I love all things open-source, and create demos, workshops, and content to make developer's lives easier! Based out of New York City.
 
-[![GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=cedricclyburn&show_icons=true&hide_rank=true&hide=stars&theme=dark#gh-dark-mode-only)]()
-[![GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=cedricclyburn&show_icons=true&hide_rank=true&hide=stars&theme=default#gh-light-mode-only)]()
-
 ### 🔗 My Links
 
 - X: [@cedricclyburn](https://x.com/cedricclyburn)
